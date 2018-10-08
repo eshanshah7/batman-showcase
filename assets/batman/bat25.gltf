@@ -1,0 +1,107 @@
+{
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5123,
+            "count" : 10176,
+            "max" : [
+                2263
+            ],
+            "min" : [
+                0
+            ],
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 2264,
+            "max" : [
+                0.1683644950389862,
+                0.009999999776482582,
+                0.0854242742061615
+            ],
+            "min" : [
+                -0.16868630051612854,
+                -0.009999999776482582,
+                -0.03400631994009018
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 2264,
+            "max" : [
+                0.999969482421875,
+                1.0,
+                0.999908447265625
+            ],
+            "min" : [
+                -0.999786376953125,
+                -1.0,
+                -1.0
+            ],
+            "type" : "VEC3"
+        }
+    ],
+    "asset" : {
+        "generator" : "Khronos Blender glTF 2.0 exporter",
+        "version" : "2.0"
+    },
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 20352,
+            "byteOffset" : 0,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 27168,
+            "byteOffset" : 20352,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 27168,
+            "byteOffset" : 47520,
+            "target" : 34962
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 74688,
+            "uri" : "bat25.bin"
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "CUCurve.019",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 2,
+                        "POSITION" : 1
+                    },
+                    "indices" : 0
+                }
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Curve"
+        }
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ]
+}

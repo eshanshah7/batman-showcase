@@ -1,0 +1,171 @@
+{
+	"logoData": [{
+			"modelSrc": "bat1.gltf",
+			"year": "1940",
+			"title": "Batman & Robin : The Boy Wonder",
+			"desc": "DC Comics"
+		},
+		{
+			"modelSrc": "bat2.gltf",
+			"year": "1965",
+			"title": "Batman Cover",
+			"desc": "DC Comics No.170"
+		},
+		{
+			"modelSrc": "bat3.gltf",
+			"year": "1966",
+			"title": "Batman TV Show",
+			"desc": "Aired on ABC starring Adam West and Burt Ward"
+		},
+		{
+			"modelSrc": "bat4.gltf",
+			"year": "1973",
+			"title": "Batman",
+			"desc": "DC Comics No.252"
+		},
+		{
+			"modelSrc": "bat5.gltf",
+			"year": "1977",
+			"title": "New Adventures of Batman",
+			"desc": "First Animated Series aired on CBS, NBC"
+		},
+		{
+			"modelSrc": "bat6.gltf",
+			"year": "1983",
+			"title": "Batman & The Outsiders",
+			"desc": "DC Comics"
+		},
+		{
+			"modelSrc": "bat7.gltf",
+			"year": "1986",
+			"title": "Batman: Legends of the Dark Knight",
+			"desc": "DC Comics, Frank Miller"
+		},
+		{
+			"modelSrc": "bat8.gltf",
+			"year": "1989",
+			"title": "Batman",
+			"desc": "Tim Burton's Film, Warner Brothers"
+		},
+		{
+			"modelSrc": "bat9.gltf",
+			"year": "1989",
+			"title": "Legends of the Dark Knight",
+			"desc": "DC Comics"
+		},
+		{
+			"modelSrc": "bat10.gltf",
+			"year": "1992",
+			"title": "Batman Returns",
+			"desc": "Animated Series Directed by Tim Burton"
+		},
+		{
+			"modelSrc": "bat11.gltf",
+			"year": "1993",
+			"title": "Batman Knightfall",
+			"desc": "DC Comics Series"
+		},
+		{
+			"modelSrc": "bat12.gltf",
+			"year": "1995",
+			"title": "Batman Forever",
+			"desc": "Val Kilmer's movie"
+		},
+		{
+			"modelSrc": "bat13.gltf",
+			"year": "1995",
+			"title": "Batman Chronicles",
+			"desc": "DC Comics"
+		},
+		{
+			"modelSrc": "bat14.gltf",
+			"year": "1997",
+			"title": "Batman & Robin",
+			"desc": "Joel Schumacher's movie"
+		},
+		{
+			"modelSrc": "bat15.gltf",
+			"year": "1998",
+			"title": "The Batman Chronicles",
+			"desc": "DC Comics"
+		},
+		{
+			"modelSrc": "bat16.gltf",
+			"year": "1999",
+			"title": "Batman : The Dark Knight Of The Round Table",
+			"desc": "DC Comics"
+		},
+		{
+			"modelSrc": "bat17.gltf",
+			"year": "1999",
+			"title": "Batman Beyond",
+			"desc": "Animated Series, Warner Brothers"
+		},
+		{
+			"modelSrc": "bat18.gltf",
+			"year": "2001",
+			"title": "Batman Vengence",
+			"desc": "Video Game by Ubisoft"
+		},
+		{
+			"modelSrc": "bat19.gltf",
+			"year": "2003",
+			"title": "Batman Gotham Knights",
+			"desc": "DC Comics"
+		},
+		{
+			"modelSrc": "bat20.gltf",
+			"year": "2003",
+			"title": "Batman Dead End",
+			"desc": "Indie Film by Sandy Collora"
+		},
+		{
+			"modelSrc": "bat21.gltf",
+			"year": "2004",
+			"title": "The Batman",
+			"desc": "Animated Series"
+		},
+		{
+			"modelSrc": "bat22.gltf",
+			"year": "2005",
+			"title": "Batman Begins",
+			"desc": "Film by Christopher Nolan"
+		},
+		{
+			"modelSrc": "bat23.gltf",
+			"year": "2007",
+			"title": "Superman & Batman vs Alien & Predator",
+			"desc": "DC and Dark Horse Comics"
+		},
+		{
+			"modelSrc": "bat24.gltf",
+			"year": "2008",
+			"title": "Batman : The Brave and The Bold",
+			"desc": "Animated Series, DC Comics & Cartoon Network"
+		},
+		{
+			"modelSrc": "bat25.gltf",
+			"year": "2008",
+			"title": "The Dark Knight",
+			"desc": "Film by Christopher Nolan"
+		},
+		{
+			"modelSrc": "bat26.gltf",
+			"year": "2009",
+			"title": "Batman and Robin",
+			"desc": "Vol 1, DC Comics"
+		},
+		{
+			"modelSrc": "bat27.gltf",
+			"year": "2009",
+			"title": "Batman : Battle of The Cowl",
+			"desc": "DC Comics"
+		},
+		{
+			"modelSrc": "bat28.gltf",
+			"year": "2016",
+			"title": "Batman vs Superman Dawn of Justice",
+			"desc": "Film by Zach Snyder"
+		}
+	]
+}
