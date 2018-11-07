@@ -2,7 +2,7 @@
 	"logoData": [{
 			"modelSrc": "bat1.gltf",
 			"year": "1940",
-			"title": "Batman & Robin : The Boy Wonder",
+			"title": "Batman & Robin :\nThe Boy Wonder",
 			"desc": "DC Comics"
 		},
 		{
@@ -15,7 +15,7 @@
 			"modelSrc": "bat3.gltf",
 			"year": "1966",
 			"title": "Batman TV Show",
-			"desc": "Aired on ABC starring Adam West and Burt Ward"
+			"desc": "Aired on ABC starring\nAdam West and Burt Ward"
 		},
 		{
 			"modelSrc": "bat4.gltf",
@@ -27,7 +27,7 @@
 			"modelSrc": "bat5.gltf",
 			"year": "1977",
 			"title": "New Adventures of Batman",
-			"desc": "First Animated Series aired on CBS, NBC"
+			"desc": "First Animated Series\naired on CBS, NBC"
 		},
 		{
 			"modelSrc": "bat6.gltf",
@@ -38,14 +38,14 @@
 		{
 			"modelSrc": "bat7.gltf",
 			"year": "1986",
-			"title": "Batman: Legends of the Dark Knight",
+			"title": "Batman: Legends\nof the Dark Knight",
 			"desc": "DC Comics, Frank Miller"
 		},
 		{
 			"modelSrc": "bat8.gltf",
 			"year": "1989",
 			"title": "Batman",
-			"desc": "Tim Burton's Film, Warner Brothers"
+			"desc": "Tim Burton's Film,\nWarner Brothers"
 		},
 		{
 			"modelSrc": "bat9.gltf",
@@ -57,7 +57,7 @@
 			"modelSrc": "bat10.gltf",
 			"year": "1992",
 			"title": "Batman Returns",
-			"desc": "Animated Series Directed by Tim Burton"
+			"desc": "Animated Series\nDirected by Tim Burton"
 		},
 		{
 			"modelSrc": "bat11.gltf",
@@ -92,14 +92,14 @@
 		{
 			"modelSrc": "bat16.gltf",
 			"year": "1999",
-			"title": "Batman : The Dark Knight Of The Round Table",
+			"title": "Batman : The Dark Knight\nOf The Round Table",
 			"desc": "DC Comics"
 		},
 		{
 			"modelSrc": "bat17.gltf",
 			"year": "1999",
 			"title": "Batman Beyond",
-			"desc": "Animated Series, Warner Brothers"
+			"desc": "Animated Series,\nWarner Brothers"
 		},
 		{
 			"modelSrc": "bat18.gltf",
@@ -117,7 +117,7 @@
 			"modelSrc": "bat20.gltf",
 			"year": "2003",
 			"title": "Batman Dead End",
-			"desc": "Indie Film by Sandy Collora"
+			"desc": "Indie Film\nby Sandy Collora"
 		},
 		{
 			"modelSrc": "bat21.gltf",
@@ -129,19 +129,19 @@
 			"modelSrc": "bat22.gltf",
 			"year": "2005",
 			"title": "Batman Begins",
-			"desc": "Film by Christopher Nolan"
+			"desc": "Film by\nChristopher Nolan"
 		},
 		{
 			"modelSrc": "bat23.gltf",
 			"year": "2007",
-			"title": "Superman & Batman vs Alien & Predator",
+			"title": "Superman & Batman\nvs Alien & Predator",
 			"desc": "DC and Dark Horse Comics"
 		},
 		{
 			"modelSrc": "bat24.gltf",
 			"year": "2008",
-			"title": "Batman : The Brave and The Bold",
-			"desc": "Animated Series, DC Comics & Cartoon Network"
+			"title": "Batman :\nThe Brave and The Bold",
+			"desc": "Animated Series,\nDC Comics & Cartoon Network"
 		},
 		{
 			"modelSrc": "bat25.gltf",
@@ -158,13 +158,13 @@
 		{
 			"modelSrc": "bat27.gltf",
 			"year": "2009",
-			"title": "Batman : Battle of The Cowl",
+			"title": "Batman :\nBattle of The Cowl",
 			"desc": "DC Comics"
 		},
 		{
 			"modelSrc": "bat28.gltf",
 			"year": "2016",
-			"title": "Batman vs Superman Dawn of Justice",
+			"title": "Batman vs Superman\nDawn of Justice",
 			"desc": "Film by Zach Snyder"
 		}
 	]
