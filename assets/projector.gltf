@@ -3,9 +3,9 @@
         {
             "bufferView" : 0,
             "componentType" : 5123,
-            "count" : 362496,
+            "count" : 8820,
             "max" : [
-                60417
+                1855
             ],
             "min" : [
                 0
@@ -15,23 +15,23 @@
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 60418,
+            "count" : 1856,
             "max" : [
-                0.9936951398849487,
-                0.9989935755729675,
-                0.9936951398849487
+                1.0,
+                0.3499999940395355,
+                1.0
             ],
             "min" : [
-                -0.9936951398849487,
                 -1.0,
-                -0.9936952590942383
+                -0.25,
+                -1.0
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 60418,
+            "count" : 1856,
             "max" : [
                 1.0,
                 1.0,
@@ -52,32 +52,32 @@
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 724992,
+            "byteLength" : 17640,
             "byteOffset" : 0,
             "target" : 34963
         },
         {
             "buffer" : 0,
-            "byteLength" : 725016,
-            "byteOffset" : 724992,
+            "byteLength" : 22272,
+            "byteOffset" : 17640,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 725016,
-            "byteOffset" : 1450008,
+            "byteLength" : 22272,
+            "byteOffset" : 39912,
             "target" : 34962
         }
     ],
     "buffers" : [
         {
-            "byteLength" : 2175024,
+            "byteLength" : 62184,
             "uri" : "projector.bin"
         }
     ],
     "meshes" : [
         {
-            "name" : "Cylinder",
+            "name" : "Cylinder.003",
             "primitives" : [
                 {
                     "attributes" : {
@@ -92,12 +92,7 @@
     "nodes" : [
         {
             "mesh" : 0,
-            "name" : "Cylinder",
-            "scale" : [
-                1.0,
-                0.18352067470550537,
-                1.0
-            ]
+            "name" : "Cylinder"
         }
     ],
     "scene" : 0,
